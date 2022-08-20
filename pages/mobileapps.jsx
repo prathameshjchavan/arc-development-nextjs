@@ -222,7 +222,7 @@ function MobileApps() {
 						</Typography>
 					</Grid>
 					<Grid item>
-						<img src="/assets/swissknife.svg" alt="swiss army knife" />
+						<img src="/assets/swissKnife.svg" alt="swiss army knife" />
 					</Grid>
 				</Grid>
 				<Grid
